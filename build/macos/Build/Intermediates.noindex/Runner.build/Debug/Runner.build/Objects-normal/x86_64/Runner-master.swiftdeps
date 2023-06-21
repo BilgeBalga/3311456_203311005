@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "914713ba63e421b5eef6e6e060e89b8043403f484c09396abe7d0a6f1b16650a"
-build_start_time: [1678392011, 320204019]
-build_end_time: [1678392020, 615838050]
-inputs:
-  "/Users/bilgebalga/Desktop/rent_car/macos/Flutter/GeneratedPluginRegistrant.swift": [1678391964, 841928005]
-  "/Users/bilgebalga/Desktop/rent_car/macos/Runner/AppDelegate.swift": [1669180996, 0]
-  "/Users/bilgebalga/Desktop/rent_car/macos/Runner/MainFlutterWindow.swift": [1669180996, 0]
